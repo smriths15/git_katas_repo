@@ -1,1 +1,3 @@
 New
+I'm making some changes to stash.
+Adding changes again
