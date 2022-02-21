@@ -1,1 +1,4 @@
-Amending changes
+Amending changes.
+We've already committed, but we wanna make amends to the already committed file.
+hard reset - resets the entire commit and the changes you made to code.
+soft reset - removes only the commit, the changes you've made would still reflect.
